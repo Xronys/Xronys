@@ -25,7 +25,7 @@
 <h3 align="left">📫 How to reach me</h3>
 <p align="left">
 <a href="mailto:i.v.kosachev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="80" width=80" /></a>
-<a href="https://t.me/Krount" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="" height="80" width=80" /></a>
+<a href="https://t.me/Krouy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="" height="80" width=80" /></a>
 </p>
 
 
